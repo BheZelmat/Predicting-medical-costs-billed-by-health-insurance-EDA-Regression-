@@ -1,6 +1,6 @@
 # Predicting-medical-costs-billed-by-health-insurance-EDA + Regression :
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/BheZelmat/Predicting-medical-costs-billed-by-health-insurance-EDA-Regression-/blob/main/img.png?raw=true)
   
 ## 📝 Description
 - The project "Predicting Medical Costs Billed by Health Insurance" leverages a comprehensive dataset of 1338 entries, encompassing attributes such as age, sex, BMI, number of children, smoking status, region, and individual medical charges. It aims to analyze how these factors impact medical costs.
